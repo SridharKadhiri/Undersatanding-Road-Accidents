@@ -1,4 +1,6 @@
-# Analyzing Road Accidents Data
+![image](https://github.com/SridharKadhiri/Undersatanding-Road-Accidents/assets/90100318/f1202451-0378-4b95-828b-fcb24cd63969)
+
+
 
 [Link for the dashboard is here](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/Road_accidents_Dashboard/Dashboard1?publish=yes) 
 
