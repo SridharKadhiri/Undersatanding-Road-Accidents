@@ -1,5 +1,7 @@
 # Analyzing Road Accidents Data
 
+[Link for the dashboard is here](https://public.tableau.com/app/profile/sridhar.kadhiri/viz/Road_accidents_Dashboard/Dashboard1?publish=yes) 
+
 ## Introduction
 
 In this project, we analyze road accident data using Python and various data visualization libraries like Pandas, NumPy, Matplotlib, and Seaborn. The dataset contains information about different aspects of road accidents, such as accident severity, vehicle types, road conditions, and weather conditions.
