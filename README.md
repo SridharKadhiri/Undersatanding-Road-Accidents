@@ -1,3 +1,12 @@
+## What is the Purpose of this Dashboard?
+1. Emergency Response Planning ⛑️🚨: Enables emergency services such as ambulances, fire departments, and police to strategically plan their response based on accident severity and frequency, ensuring timely assistance where it's needed the most.
+
+2. Resource Allocation 🤕⚖️: Helps in the efficient allocation of resources, both human and material, to regions with higher accident severity, ensuring that hospitals, emergency rooms, and law enforcement agencies are adequately equipped and staffed.
+
+3. Policy Formulation 🚓👮: Provides valuable insights for policymakers and governmental agencies to formulate effective traffic safety policies and regulations. By understanding accident patterns, authorities can design targeted interventions to enhance road safety.
+
+
+
 ![image](https://github.com/SridharKadhiri/Undersatanding-Road-Accidents/assets/90100318/f1202451-0378-4b95-828b-fcb24cd63969)
 
 
@@ -8,6 +17,7 @@
 ## Introduction
 
 In this project, we analyze road accident data using Python and various data visualization libraries like Pandas, NumPy, Matplotlib, and Seaborn. The dataset contains information about different aspects of road accidents, such as accident severity, vehicle types, road conditions, and weather conditions.
+
 
 ## Data Preprocessing
 
